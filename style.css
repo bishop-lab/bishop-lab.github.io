@@ -21,6 +21,12 @@ div {
   height: 600px;
 }
 
-#publications {
+.publications {
   height: 2000px;
+  background: white;
+  border-radius: 15px;
+}
+
+#publications1 {
+  text-align: center;
 }
