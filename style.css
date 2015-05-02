@@ -11,3 +11,12 @@ div {
   border-radius: 15px;
   text-align: center;
 }
+
+#home {
+  height: 70px;
+  width: 1300px;
+}
+
+#faculty {
+  height: 500px;
+}
