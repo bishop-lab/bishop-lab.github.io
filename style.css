@@ -4,7 +4,7 @@ body{
   background-color: #042455;
 }
 
-div {
+.tab {
   height: 100px;
   width: 1500px;
   background: white;
