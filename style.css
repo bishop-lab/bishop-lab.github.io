@@ -23,6 +23,11 @@ body{
   text-align: center;
 }
 
+#image {
+  border-radius: 15px;
+  border: 1px solid #042455;
+}
+
 .publications {
   height: 2000px;
   width: 1500px;
