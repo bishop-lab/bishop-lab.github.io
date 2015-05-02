@@ -4,3 +4,9 @@ body{
   background-color: #042455;
   text-aligh: center;
 }
+
+div {
+  height: 100px;
+  width: 200px;
+  background: white;
+}
