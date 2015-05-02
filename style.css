@@ -25,6 +25,7 @@ body{
 
 .publications {
   height: 2000px;
+  width: 1500px;
   background: white;
   border-radius: 15px;
 }
