@@ -2,12 +2,12 @@ body{
   font-size: 25px;
   color: black;
   background-color: #042455;
-  text-aligh: center;
+  text-align: center;
 }
 
 div {
   height: 100px;
-  width: 1000px;
+  width: 1500px;
   background: white;
   border-radius: 15px;
 }
