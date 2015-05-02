@@ -9,16 +9,17 @@ div {
   width: 1500px;
   background: white;
   border-radius: 15px;
-  text-align: center;
 }
 
 #home {
   height: 70px;
   width: 1300px;
+  text-align: center;
 }
 
 #faculty {
   height: 600px;
+  text-align: center;
 }
 
 .publications {
