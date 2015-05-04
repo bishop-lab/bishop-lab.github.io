@@ -18,8 +18,8 @@ body{
 }
 
 #faculty {
-  height: 1000px;
-  width: 800px;
+  height: 640px;
+  width: 600px;
   text-align: center;
 }
 
@@ -29,15 +29,15 @@ img {
 }
 
 .publications {
-  height: 1900px;
+  height: 1560px;
   width: 1500px;
   background: white;
   border-radius: 15px;
 }
 
 #contact {
-  height: 1000px;
-  width: 800px;
+  height: 800px;
+  width: 500px;
   text-align: center;
 }
 
