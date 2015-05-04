@@ -35,6 +35,12 @@ img {
   border-radius: 15px;
 }
 
+#contact {
+  height: 600px;
+  width: 800px;
+  text-align: center;
+}
+
 #publications1 {
   text-align: center;
 }
