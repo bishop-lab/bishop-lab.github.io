@@ -11,6 +11,10 @@ body{
   border-radius: 15px;
 }
 
+#star_logo {
+  width: 400px;
+}
+
 #home {
   height: 70px;
   width: 1300px;
@@ -23,7 +27,7 @@ body{
   text-align: center;
 }
 
-img {
+#somer_image {
   border-radius: 15px;
   border: 1px solid #042455;
 }
