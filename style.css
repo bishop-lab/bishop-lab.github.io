@@ -18,14 +18,14 @@ body{
 }
 
 #home {
-  height: 70px;
-  width: 300px;
+  height: 170px;
+  width: auto;
   text-align: center;
   float: right;
 }
 
 #faculty {
-  height: 640px;
+  height: auto;
   width: 600px;
   text-align: center;
 }
@@ -36,14 +36,14 @@ body{
 }
 
 .publications {
-  height: 1560px;
+  height: auto;
   width: 1500px;
   background: white;
   border-radius: 15px;
 }
 
 #contact {
-  height: 800px;
+  height: auto;
   width: 500px;
   text-align: center;
 }
