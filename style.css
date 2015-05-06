@@ -14,12 +14,14 @@ body{
 #star_logo {
   height: 200px;
   width: auto;
+  float: left;
 }
 
 #home {
   height: 70px;
   width: 1300px;
   text-align: center;
+  float: right;
 }
 
 #faculty {
