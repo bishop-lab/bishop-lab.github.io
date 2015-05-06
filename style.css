@@ -24,9 +24,8 @@ body{
 
 #home {
   height: 170px;
-  width: 90%;
+  width: auto;
   text-align: center;
-  float: right;
 }
 
 #faculty {
