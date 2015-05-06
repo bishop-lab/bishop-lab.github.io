@@ -11,6 +11,11 @@ body{
   border-radius: 15px;
 }
 
+#star_logo {
+  width:400px;
+  height:auto;
+}
+
 #home {
   height: 70px;
   width: 1300px;
